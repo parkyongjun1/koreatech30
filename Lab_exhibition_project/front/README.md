@@ -1,7 +1,5 @@
 # Sample project 30주년 과제
 
-## Using front code kimhagyeong/Lab_exhibition_project [[link]](https://github.com/kimhagyeong/Lab_exhibition_project)
-
 ### FrontEnd
 - node.js 설치
 - ```npm i```
