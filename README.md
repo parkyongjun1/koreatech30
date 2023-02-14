@@ -22,6 +22,12 @@
         | GET         | http://```BIP```:8000/cv/\<int:art_id\> | - | art_id에 대한 3가지 variation을 포함한 결과 4개 url 리스트 |
         | GET         | http://```BIP```:8000/cp/\<int:art_code\> | - | art_id : ```art_code//10```<br>final selected art : ```art_code%10``` <br>  ```art_id```와 ```final```에 대한 출력물 변환 결과 url |
 
+
+### Model
+numpy, mxnet, PIL 
+
+
+
 ### 실행 정보
 - 프로젝트 화면 ```http://BIP:3000/``` 
 - django 객체 관리 화면 ```http://BIP:8000/admin```
